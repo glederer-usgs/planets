@@ -3,4 +3,6 @@ The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of the color blue.
 Craters everywhere.
 May need to consider Dracula's aversion to the sun.
-A new line about Dracula.
+Dracula loves the sunsets, but terraforming for garlic production is not advised.
+This should be fixed now!
+
